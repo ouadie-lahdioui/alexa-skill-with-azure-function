@@ -6,6 +6,9 @@
     "start": "func start",
     "test": "echo \"No tests yet...\""
   },
-  "dependencies": {},
+  "dependencies": {
+    "ask-sdk": "^2.9.0",
+    "axios": "^0.19.2"
+  },
   "devDependencies": {}
 }

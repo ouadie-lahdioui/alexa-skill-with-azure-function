@@ -1,0 +1,297 @@
+{
+    "now": "10:40",
+    "unavailable": null,
+    "status": {
+      "rer": {
+        "name": "RER",
+        "icon": "rer",
+        "url": "http://www.ratp.fr/informer/trafic/trafic.php?cat=2",
+        "lines": {
+          "A": {
+            "name": "normal_trav",
+            "icon": "RA",
+            "level": 11,
+            "title": "Travaux",
+            "message": "le trafic est interrompu entre Auber et Vincennes de 21:00 à 01:30 jusqu'au 31/07/20. (travaux)",
+            "url": "http://www.ratp.fr/informer/trafic/travaux_ratp.php",
+            "date": {
+              "date": "2020-07-27 21:00:00",
+              "timezone_type": 3,
+              "timezone": "Europe/Paris"
+            }
+          },
+          "B": {
+            "name": "normal_trav",
+            "icon": "RB",
+            "level": 11,
+            "title": "Travaux",
+            "message": "05:00, le trafic est interrompu entre Gif/Yvette et Saint-Remy-les-Chevreuse jusqu'au 09/08/20 fin de service. Bus de remplacement à dispo. (travaux)",
+            "url": "http://www.ratp.fr/informer/trafic/travaux_ratp.php",
+            "date": {
+              "date": "2020-07-18 05:00:00",
+              "timezone_type": 3,
+              "timezone": "Europe/Paris"
+            }
+          }
+        }
+      },
+      "metro": {
+        "name": "Métro",
+        "icon": "metro",
+        "url": "http://www.ratp.fr/informer/trafic/trafic.php?cat=1",
+        "lines": {
+          "1": {
+            "name": "normal",
+            "icon": "M1",
+            "level": 10,
+            "title": "Trafic normal",
+            "message": "Trafic normal sur l'ensemble de la ligne.",
+            "url": "",
+            "date": null
+          },
+          "2": {
+            "name": "normal",
+            "icon": "M2",
+            "level": 10,
+            "title": "Trafic normal",
+            "message": "Trafic normal sur l'ensemble de la ligne.",
+            "url": "",
+            "date": null
+          },
+          "3": {
+            "name": "normal",
+            "icon": "M3",
+            "level": 10,
+            "title": "Trafic normal",
+            "message": "Trafic normal sur l'ensemble de la ligne.",
+            "url": "",
+            "date": null
+          },
+          "4": {
+            "name": "normal_trav",
+            "icon": "M4",
+            "level": 11,
+            "title": "Travaux",
+            "message": "le trafic est interrompu sur la ligne de 22:15 à fin de service jusqu'au 30/07/20. (travaux)",
+            "url": "http://www.ratp.fr/informer/trafic/travaux_ratp.php",
+            "date": {
+              "date": "2020-07-27 22:15:00",
+              "timezone_type": 3,
+              "timezone": "Europe/Paris"
+            }
+          },
+          "5": {
+            "name": "normal",
+            "icon": "M5",
+            "level": 10,
+            "title": "Trafic normal",
+            "message": "Trafic normal sur l'ensemble de la ligne.",
+            "url": "",
+            "date": null
+          },
+          "6": {
+            "name": "normal_trav",
+            "icon": "M6",
+            "level": 11,
+            "title": "Travaux",
+            "message": "tous les jours, le trafic est interrompu entre Trocadero et Etoile jusqu'au 23/08/20. (travaux)",
+            "url": "http://www.ratp.fr/informer/trafic/travaux_ratp.php",
+            "date": {
+              "date": "2020-07-25 00:00:00",
+              "timezone_type": 3,
+              "timezone": "Europe/Paris"
+            }
+          },
+          "7": {
+            "name": "critique",
+            "icon": "M7",
+            "level": 40,
+            "title": "Trafic très perturbé",
+            "message": "28/07/20, 10:37, le trafic est interrompu entre Place d'Italie et Mairie d'Ivry / Villejuif-L.Aragon. Reprise estimée à 10:50. (train en panne)",
+            "url": "http://www.ratp.fr/informer/trafic/trafic.php?cat=1",
+            "date": {
+              "date": "2020-07-28 10:37:00",
+              "timezone_type": 3,
+              "timezone": "Europe/Paris"
+            }
+          },
+          "8": {
+            "name": "normal",
+            "icon": "M8",
+            "level": 10,
+            "title": "Trafic normal",
+            "message": "Trafic normal sur l'ensemble de la ligne.",
+            "url": "",
+            "date": null
+          },
+          "9": {
+            "name": "normal",
+            "icon": "M9",
+            "level": 10,
+            "title": "Trafic normal",
+            "message": "Trafic normal sur l'ensemble de la ligne.",
+            "url": "",
+            "date": null
+          },
+          "10": {
+            "name": "normal",
+            "icon": "M10",
+            "level": 10,
+            "title": "Trafic normal",
+            "message": "Trafic normal sur l'ensemble de la ligne.",
+            "url": "",
+            "date": null
+          },
+          "11": {
+            "name": "normal_trav",
+            "icon": "M11",
+            "level": 11,
+            "title": "Travaux",
+            "message": "tous les jours, l'arrêt n'est pas marqué à Belleville jusqu'au 30/08/20. (travaux)",
+            "url": "http://www.ratp.fr/informer/trafic/travaux_ratp.php",
+            "date": {
+              "date": "2020-07-07 00:00:00",
+              "timezone_type": 3,
+              "timezone": "Europe/Paris"
+            }
+          },
+          "12": {
+            "name": "normal",
+            "icon": "M12",
+            "level": 10,
+            "title": "Trafic normal",
+            "message": "Trafic normal sur l'ensemble de la ligne.",
+            "url": "",
+            "date": null
+          },
+          "13": {
+            "name": "normal",
+            "icon": "M13",
+            "level": 10,
+            "title": "Trafic normal",
+            "message": "Trafic normal sur l'ensemble de la ligne.",
+            "url": "",
+            "date": null
+          },
+          "14": {
+            "name": "normal",
+            "icon": "M14",
+            "level": 10,
+            "title": "Trafic normal",
+            "message": "Trafic normal sur l'ensemble de la ligne.",
+            "url": "",
+            "date": null
+          },
+          "3b": {
+            "name": "normal",
+            "icon": "M3b",
+            "level": 10,
+            "title": "Trafic normal",
+            "message": "Trafic normal sur l'ensemble de la ligne.",
+            "url": "",
+            "date": null
+          },
+          "7b": {
+            "name": "normal",
+            "icon": "M7b",
+            "level": 10,
+            "title": "Trafic normal",
+            "message": "Trafic normal sur l'ensemble de la ligne.",
+            "url": "",
+            "date": null
+          }
+        }
+      },
+      "tram": {
+        "name": "Tramway",
+        "icon": "tramway",
+        "url": "http://www.ratp.fr/informer/trafic/trafic.php?cat=3",
+        "lines": {
+          "T1": {
+            "name": "normal_trav",
+            "icon": "T1",
+            "level": 11,
+            "title": "Travaux",
+            "message": "tous les jours, l'arrêt n'est pas marqué à M. Lachatre jusqu'au 17/02/21. (travaux)",
+            "url": "http://www.ratp.fr/informer/trafic/travaux_ratp.php",
+            "date": {
+              "date": "2020-06-24 00:00:00",
+              "timezone_type": 3,
+              "timezone": "Europe/Paris"
+            }
+          },
+          "T2": {
+            "name": "normal_trav",
+            "icon": "T2",
+            "level": 11,
+            "title": "Travaux",
+            "message": "tous les jours, le trafic est interrompu entre CHARLEBOURG et PUTEAUX jusqu'au 12/08/20. (travaux)",
+            "url": "http://www.ratp.fr/informer/trafic/travaux_ratp.php",
+            "date": {
+              "date": "2020-07-25 00:00:00",
+              "timezone_type": 3,
+              "timezone": "Europe/Paris"
+            }
+          },
+          "T3a": {
+            "name": "normal",
+            "icon": "T3a",
+            "level": 10,
+            "title": "Trafic normal",
+            "message": "Trafic normal sur l'ensemble de la ligne.",
+            "url": "",
+            "date": null
+          },
+          "T3b": {
+            "name": "normal_trav",
+            "icon": "T3b",
+            "level": 11,
+            "title": "Travaux",
+            "message": "tous les jours, le trafic est interrompu entre COLETTE BESSON et PORTE D'ASNIERES - MARGUERITE LONG jusqu'au 02/08/20. Bus de remplacement à dispo. (travaux)",
+            "url": "http://www.ratp.fr/informer/trafic/travaux_ratp.php",
+            "date": {
+              "date": "2020-07-18 00:00:00",
+              "timezone_type": 3,
+              "timezone": "Europe/Paris"
+            }
+          },
+          "T5": {
+            "name": "normal",
+            "icon": "T5",
+            "level": 10,
+            "title": "Trafic normal",
+            "message": "Trafic normal sur l'ensemble de la ligne.",
+            "url": "",
+            "date": null
+          },
+          "T6": {
+            "name": "normal",
+            "icon": "T6",
+            "level": 10,
+            "title": "Trafic normal",
+            "message": "Trafic normal sur l'ensemble de la ligne.",
+            "url": "",
+            "date": null
+          },
+          "T7": {
+            "name": "normal",
+            "icon": "T7",
+            "level": 10,
+            "title": "Trafic normal",
+            "message": "Trafic normal sur l'ensemble de la ligne.",
+            "url": "",
+            "date": null
+          },
+          "T8": {
+            "name": "normal",
+            "icon": "T8",
+            "level": 10,
+            "title": "Trafic normal",
+            "message": "Trafic normal sur l'ensemble de la ligne.",
+            "url": "",
+            "date": null
+          }
+        }
+      }
+    }
+  }
